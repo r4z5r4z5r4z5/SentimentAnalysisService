@@ -1,0 +1,2 @@
+LingvisticsService.exe -console
+pause
